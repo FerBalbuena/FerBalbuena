@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Skilled in Power BI, Python and MySQL.**
 
-- 📫 How to reach me **www.linkedin.com/in/fernando-balbuena-díaz-a94372302** 
+- 📫 How to reach me **balbuena.fer02@gmail.com or +595 972-131-855** 
 
 
 <h3 align="left">Languages and Tools:</h3>
